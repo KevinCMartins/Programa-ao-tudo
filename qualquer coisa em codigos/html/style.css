@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(75, 75, 75);
+}
+
+button {
+    background-color: transparent;
+    color: red;
+}
+
+input {
+    background-color: transparent;
+    box-shadow: 1px 1px 0px 1px;
+}
